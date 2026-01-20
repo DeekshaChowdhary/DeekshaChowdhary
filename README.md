@@ -14,8 +14,6 @@ Strengthening Data Structures & Problem Solving.
 
 💡 Always curious to explore new technologies and contribute to open-source 🚀
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deekshachoudhary554@gmail.com) 
 
 
 # 💻 Tech Stack:
@@ -30,6 +28,10 @@ Strengthening Data Structures & Problem Solving.
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deekshachoudhary554@gmail.com) 
 
 
 ### ✍️ Random Dev Quote
